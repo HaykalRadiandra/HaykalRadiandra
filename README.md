@@ -13,8 +13,8 @@
 
 # Stats 📊
 
-![ardhptr21's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardhptr21&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhptr21&layout=compact)
+![haykalradiandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=haykalradiandra&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykalradiandra&layout=compact)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
