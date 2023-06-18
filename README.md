@@ -1,3 +1,5 @@
+![Header image](https://raw.githubusercontent.com/haykalradiandra/haykalradiandra/master/Assets/Banner.png)
+https://github.com/HaykalRadiandra/HaykalRadiandra/blob/master/Assets/Banner%20Github.png
 ### Hi there 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"/>
 
 
