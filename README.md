@@ -41,7 +41,7 @@
 <h1 align="center">📊 Stats</h1>
 <div align="center">
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=haykalradiandra&show_icons=true&theme=holi"/>
-<img width="37%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykalradiandra&layout=compact&theme=holi"/>
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykalradiandra&layout=compact&theme=holi"/>
 </div>
 
 <hr>
