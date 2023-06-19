@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<samp>Hi, I'm Haykal Rahmadian Tandra. I am a student at SMK Negeri 7 Semarang. I have an ambition to learn about IT and the World of Programming.</samp>
+Hi, I'm Haykal Rahmadian Tandra. Now I am still a student at SMK Negeri 7 Semarang. I have an ambition to explore the World of Programming, especially Frontend Web Developer
 <br> <br>
 <img src="https://komarev.com/ghpvc/?username=haykalradiandra&style=plastic" alt="https://github.com/HaykalRadiandra" width="150px"/>
 </div>
