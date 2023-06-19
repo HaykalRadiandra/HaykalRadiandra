@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.</samp>
+<samp>Hi, I'm Haykal Rahmadian Tandra. I am a student at SMK Negeri 7 Semarang. I have an ambition to learn about IT and the World of Programming.</samp>
 <br> <br>
 <img src="https://komarev.com/ghpvc/?username=haykalradiandra&style=plastic" alt="https://github.com/HaykalRadiandra" width="150px"/>
 </div>
@@ -40,8 +40,8 @@
 
 <h2 align="center">📊 Statistics</h2>
 <div align="center">
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=haykalradiandra&show_icons=true&theme=holi"/>
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykalradiandra&layout=compact&theme=holi"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=haykalradiandra&show_icons=true&theme=holi"/>
+<img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykalradiandra&layout=compact&theme=holi"/>
 </div>
 
 <hr>
