@@ -1,6 +1,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/haykalradiandra/haykalradiandra/master/Assets/Banner.png"/>
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"/> Hi there</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there</h1>
 
 
 <div align="center">
@@ -38,7 +38,7 @@
 
 <hr>
 
-<h1 align="center">📊 Stats</h1>
+<h2 align="center">📊 Statistics</h2>
 <div align="center">
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=haykalradiandra&show_icons=true&theme=holi"/>
 <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykalradiandra&layout=compact&theme=holi"/>
