@@ -13,7 +13,7 @@ I'm Haykal Rahmadian Tandra. Now I am still a student at SMK Negeri 7 Semarang. 
 
 <hr>
 
-<h2  align="center">📫 Reach me on</h2>
+<h2  align="center">🌐 Reach Me at</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/haykal-rahmadian-tandra-047887248/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <!--   <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp; -->
@@ -24,7 +24,7 @@ I'm Haykal Rahmadian Tandra. Now I am still a student at SMK Negeri 7 Semarang. 
 
 <hr>
 
-<h2 align="center">💬 My Blog Articles</h2>
+<h2 align="center">📝 My Blog Articles</h2>
 <p align="center" align='right'>
   <a target="_blank"href="https://dev.to/haykal_radiandra"><img src="https://img.shields.io/badge/dev.to-483D8B.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://medium.com/@haykalradiandra"><img src="https://img.shields.io/badge/Medium%20-808000.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
@@ -32,7 +32,7 @@ I'm Haykal Rahmadian Tandra. Now I am still a student at SMK Negeri 7 Semarang. 
 
 <hr>
 
-<h2 align="center"> 🔭 My Skills</h2>
+<h2 align="center"> 🔖 My Skills</h2>
 
 <!-- Frontend, Backend, Backend as a Service -->
 <p align="center">
@@ -67,7 +67,7 @@ I'm Haykal Rahmadian Tandra. Now I am still a student at SMK Negeri 7 Semarang. 
 
 <hr>
 
-<h2 align="center">📊 Statistics</h2>
+<h2 align="center">📈 Statistics</h2>
 <div align="center">
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=haykalradiandra&show_icons=true&theme=holi"/>
 <img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykalradiandra&layout=compact&theme=holi"/>
@@ -75,7 +75,7 @@ I'm Haykal Rahmadian Tandra. Now I am still a student at SMK Negeri 7 Semarang. 
 
 <hr>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2  align="center">💻 View My Repository ⬇️ </h2>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
