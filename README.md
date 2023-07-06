@@ -16,10 +16,10 @@ I'm Haykal Rahmadian Tandra. Now I am still a student at SMK Negeri 7 Semarang. 
 <h2  align="center">🌐 Reach Me at</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/haykal-rahmadian-tandra-047887248/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<!--   <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp; -->
   <a href="mailto: rthaykal@gmail.com?subject=Hello%20Haykal,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a target="_blank"href="https://instagram.com/haykaldindra_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> &nbsp;
-  <a target="_blank"href="https://fb.com/haykal.radindra"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> &nbsp;
+<!--   <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp; -->
+  <a target="_blank"href="https://instagram.com/haykaldindra_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;
+  <a target="_blank"href="https://fb.com/haykal.radindra"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>&nbsp;
 </p>
 
 <hr>
