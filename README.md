@@ -27,6 +27,7 @@ I'm Haykal Rahmadian Tandra. Now I am still a student at SMK Negeri 7 Semarang. 
 <h2 align="center">📝 My Blog Articles</h2>
 <p align="center" align='right'>
   <a target="_blank"href="https://dev.to/haykal_radiandra"><img src="https://img.shields.io/badge/dev.to-483D8B.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.showwcase.com/haykalradiandra"><img src="https://forthebadge.com/images/badges/check-it-out.svg"/></a> &nbsp;
   <a target="_blank"href="https://medium.com/@haykalradiandra"><img src="https://img.shields.io/badge/Medium%20-808000.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
